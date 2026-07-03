@@ -141,16 +141,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WeiLinCool&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0077FF&icon_color=0077FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WeiLinCool&theme=radical&hide_border=true&background=0D1117&stroke=0077FF&ring=0077FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeiLinCool&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0077FF&text_color=FFFFFF" alt="Top Languages" />
   <img src="https://github-profile-trophy.vercel.app/?username=WeiLinCool&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophy" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=WeiLinCool&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Contribution Stats" />
 </p>
 
 ---
