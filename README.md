@@ -1,16 +1,78 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0077FF&width=600&lines=前沿AI需求落地师;专注AIGC+Agent+RAG工程化;让AI从Demo走向生产价值)](https://git.io/typing-svg)
+### 👋 Hi, I'm weilin | 前沿AI需求落地师 (FDE)
 
-<!--
-**WeiLinCool/WeiLinCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 专注于把AI能力从「Demo演示」推向「生产落地」，打通业务需求、系统数据与智能模型的最后一公里
+> 核心方向：**AIGC内容生产 | Agent智能体编排 | RAG检索增强生成**
 
-Here are some ideas to get you started:
+🎯 定位：企业AI落地的「前线造局者」，既懂业务流程拆解，也能完成端到端工程交付
+💼 当前状态：求职中
+🌱 深耕领域：企业知识库落地、业务流程自动化、多模态AIGC管线、多智能体协同系统
+🤝 欢迎交流：AI落地场景拆解、RAG优化方案、Agent架构设计、生产环境部署
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 核心技术栈
+
+#### 🔤 大模型与AIGC
+
+
+
+
+
+
+#### 🧠 Agent 智能体
+
+
+
+
+
+
+#### 📚 RAG 检索增强
+
+
+
+
+
+
+#### ⚙️ 工程交付
+
+
+
+
+
+
+---
+
+### 🎯 三大核心落地能力
+
+#### 1. AIGC 工程化落地
+- 多模态内容生成管线搭建：文本、图像、音视频的批量自动化生产
+- 模型选型与成本优化：闭源/开源模型组合方案，Prompt缓存与降本设计
+- 企业级AIGC平台部署：权限管控、内容审核、调用审计与用量统计
+
+#### 2. Agent 智能体交付
+- 单智能体工具链打通：Function Calling、MCP协议、系统API与数据对接
+- 多智能体协同架构：路由分发、角色分工、结果评审、层级调度
+- 业务流程自动化：将企业SOP转化为智能体工作流，实现无人值守执行
+
+#### 3. RAG 知识库生产级方案
+- 全链路RAG工程：文档解析、语义分块、向量入库、混合检索、重排序
+- 效果调优：查询改写、召回率优化、幻觉抑制、Golden Dataset评测体系
+- 场景化落地：企业内部知识库、智能客服、合规问答、产品手册助手
+
+---
+
+### 📊 GitHub 能力统计
+
+
+
+
+
+---
+
+### 📫 联系与合作
+
+- 📧 邮箱：zhongasdf@gmail.com
+- 💼 微信/LinkedIn：weilinZOvO
+- 💬 欢迎探讨：AI落地需求评估、方案设计、工程交付与技术咨询
+
