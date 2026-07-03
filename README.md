@@ -137,15 +137,10 @@
 
 ---
 
-### 📊 GitHub 统计
+### 📊 GitHub 仓库概览
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WeiLinCool&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0077FF&icon_color=0077FF&text_color=FFFFFF" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeiLinCool&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0077FF&text_color=FFFFFF" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=WeiLinCool&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WeiLinCool&repo=WeiLinCool&theme=radical&hide_border=true&bg_color=0D1117&title_color=0077FF&icon_color=0077FF&text_color=FFFFFF" alt="Repo Card" />
 </p>
 
 ---
