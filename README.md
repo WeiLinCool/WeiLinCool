@@ -137,14 +137,6 @@
 
 ---
 
-### 📊 GitHub 仓库概览
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=WeiLinCool&repo=WeiLinCool&theme=radical&hide_border=true&bg_color=0D1117&title_color=0077FF&icon_color=0077FF&text_color=FFFFFF" alt="Repo Card" />
-</p>
-
----
-
 ### 🏆 技术徽章
 
 <p align="center">
