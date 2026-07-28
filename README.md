@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0077FF&width=600&lines=前沿AI需求落地师;专注AIGC+Agent+RAG工程化;让AI从Demo走向生产价值" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0077FF&width=600&lines=前沿AI需求落地师;专注AIGC+Agent工程化;让AI从Demo走向生产价值" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,13 +11,12 @@
 </p>
 
 <p align="center">
-  <strong>核心方向：</strong> AIGC内容生产 | Agent智能体编排 | RAG检索增强生成
+  <strong>核心方向：</strong> AIGC内容生产 | Agent智能体编排
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/定位-企业AI落地前线造局者-blue?style=flat-square" alt="定位" />
   <img src="https://img.shields.io/badge/状态-求职中-success?style=flat-square" alt="状态" />
-  <img src="https://img.shields.io/badge/深耕-企业知识库落地-orange?style=flat-square" alt="深耕领域" />
 </p>
 
 ---
@@ -38,7 +37,7 @@
   <img src="https://img.shields.io/badge/DALL·E-3-412991?style=flat-square&logo=openai&logoColor=white" alt="DALL·E" />
 </p>
 
-- **模型选型与调优**：Prompt Engineering、Few-shot Learning、模型微调
+- **模型选型与调优**：Prompt Engineering
 - **多模态生成**：文本生成、图像创作、音视频处理
 - **成本优化**：Token 管理、Prompt 缓存、模型路由策略
 
@@ -58,24 +57,10 @@
 - **多智能体架构**：角色分工、任务分发、结果评审、层级调度
 - **业务流程自动化**：SOP 转智能体工作流、无人值守执行
 
-#### 📚 RAG 检索增强
-<p>
-  <img src="https://img.shields.io/badge/Pinecone-Vector-4A90E2?style=flat-square" alt="Pinecone" />
-  <img src="https://img.shields.io/badge/Milvus-Vector-0099FF?style=flat-square" alt="Milvus" />
-  <img src="https://img.shields.io/badge/Weaviate-Vector-FF6B35?style=flat-square" alt="Weaviate" />
-  <img src="https://img.shields.io/badge/Chroma-Vector-FF4088?style=flat-square" alt="Chroma" />
-  <img src="https://img.shields.io/badge/Elasticsearch-Search-00BFB3?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-  <img src="https://img.shields.io/badge/Semantic-Chunking-8B5CF6?style=flat-square" alt="Chunking" />
-  <img src="https://img.shields.io/badge/Rerank-重排序-F59E0B?style=flat-square" alt="Rerank" />
-  <img src="https://img.shields.io/badge/RAGAS-评测-10B981?style=flat-square" alt="RAGAS" />
-</p>
-
-- **全链路工程**：文档解析、语义分块、向量入库、混合检索
-- **效果优化**：查询改写、召回率提升、幻觉抑制
-- **评测体系**：Golden Dataset、RAGAS 评分、A/B 测试
-
 #### ⚙️ 工程交付
 <p>
+  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Vue-3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Go-1.21-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
@@ -95,11 +80,11 @@
 
 ---
 
-### 🎯 三大核心落地能力
+### 🎯 两大核心落地能力
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 #### 1️⃣ AIGC 工程化落地
 
@@ -110,7 +95,7 @@
 **关键词**：文本/图像/音视频批量生产 · Prompt缓存降本 · 权限管控 · 内容审核
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 #### 2️⃣ Agent 智能体交付
 
@@ -119,17 +104,6 @@
 ✅ 业务流程自动化  
 
 **关键词**：Function Calling · MCP协议 · 角色分工 · 无人值守
-
-</td>
-<td width="33%" valign="top">
-
-#### 3️⃣ RAG 知识库生产级方案
-
-✅ 全链路RAG工程  
-✅ 效果调优  
-✅ 场景化落地  
-
-**关键词**：语义分块 · 混合检索 · 幻觉抑制 · Golden Dataset评测
 
 </td>
 </tr>
@@ -142,7 +116,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI-落地专家-0077FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI落地专家" />
   <img src="https://img.shields.io/badge/Agent-架构师-FF6B6B?style=for-the-badge&logo=probot&logoColor=white" alt="Agent架构师" />
-  <img src="https://img.shields.io/badge/RAG-工程师-8B5CF6?style=for-the-badge&logo=algolia&logoColor=white" alt="RAG工程师" />
   <img src="https://img.shields.io/badge/全栈-工程师-10B981?style=for-the-badge&logo=react&logoColor=white" alt="全栈工程师" />
 </p>
 
